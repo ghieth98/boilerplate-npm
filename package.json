@@ -1,6 +1,6 @@
 {
-	"author": "Hossam Ghieth",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Hossam Ghieth",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
